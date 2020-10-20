@@ -1,0 +1,2 @@
+# opendata_json_parse_ela
+解析opendata得http、https数据并将结果写入json，方便导入ela
